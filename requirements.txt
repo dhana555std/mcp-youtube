@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+
+mcp[client]
+
+openai-agents
+openai
